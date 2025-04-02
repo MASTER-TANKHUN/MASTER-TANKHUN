@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Master T</h1>
 <h3 align="center">Hi there! I'm a beginner programmer, currently diving into the world of coding. I'm really interested in web and app development, and I'm learning languages like HTML, CSS, JavaScript, and Python. Super excited to see where this journey takes me!</h3>
 
-- 🔭 I’m currently working on [q3D Solar System Simulator](https://github.com/MASTER-TANKHUN/quick_math)
+- 🔭 I’m currently working on [3D Solar System Simulator]([https://github.com/MASTER-TANKHUN/quick_math](https://github.com/MASTER-TANKHUN/3D-Solar-System-Simulator)
 
 - 🌱 I’m currently learning **SQL**
 
