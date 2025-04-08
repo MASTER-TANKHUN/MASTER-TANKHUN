@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SQL**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MASTER-TANKHUN](https://github.com/MASTER-TANKHUN)
+- 👨‍💻 All of my projects are available at [MASTER-T](https://github.com/MASTER-TANKHUN)
 
 - 📫 How to reach me **wasdqerfzxcv1454@gmail.com**
 
