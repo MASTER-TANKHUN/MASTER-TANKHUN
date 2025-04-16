@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **wasdqerfzxcv1454@gmail.com**
 
-- ⚡ Fun fact **Elite AI Operator😈**
+- ⚡ Fun fact **Elite AI Operator😈**.
 
 ## Repositories you need to see
 - **[Login page with different design styles](https://github.com/MASTER-TANKHUN/Login_page_all_style)** beautiful login page with html css javascript
