@@ -1,15 +1,4 @@
 <h1 align="center">Hi 👋, I'm Master T</h1>
-<h3 align="center">Hi there! I'm a beginner programmer, currently diving into the world of coding. I'm really interested in web and app development, and I'm learning languages like HTML, CSS, JavaScript, and Python. Super excited to see where this journey takes me!</h3>
-
-- 🔭 I’m currently working on [Tech tutorials](https://www.tiktok.com/@programuzz?_t=ZS-8uy7715RP8f&_r=1)
-
-- 🌱 I’m currently learning **SQL**
-
-- 👨‍💻 All of my projects are available at [MASTER-T](https://github.com/MASTER-TANKHUN)
-
-- 📫 How to reach me **wasdqerfzxcv1454@gmail.com**
-
-- ⚡ Fun fact **Elite AI Operator😈**
 
 ## Repositories you need to see
 - **[Login page with different design styles](https://github.com/MASTER-TANKHUN/Login_page_all_style)** beautiful login page with html css javascript.
