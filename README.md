@@ -31,9 +31,6 @@
   <img width="12" />
   <img src="https://brandlogos.net/wp-content/uploads/2025/03/gemini_icon-logo_brandlogos.net_aacx5.png" height="50" alt="gemini logo"  />
   <img width="12" />
-</div>
-<br>
-<div align="center">
   <img src="https://skillicons.dev/icons?i=gcp" height="60" alt="google cloud logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cloudflare" height="60" alt="cloudflare logo"  />
