@@ -29,7 +29,19 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/claude-color.png" height="45" alt="claude logo"  />
   <img width="12" />
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/ChatGPT-Logo.svg/1280px-ChatGPT-Logo.svg.png?utm_source=th.wikipedia.org&utm_campaign=index&utm_content=thumbnail" height="45" alt="chatgpt logo"  />
+  <img width="12" />
   <img src="https://brandlogos.net/wp-content/uploads/2025/03/gemini_icon-logo_brandlogos.net_aacx5.png" height="50" alt="gemini logo"  />
+  <img width="12" />
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Qwen_logo.svg/3840px-Qwen_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" height="50" alt="qwen logo"  />
+  <img width="12" />
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Z.ai_%28company_logo%29.svg/3840px-Z.ai_%28company_logo%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" height="50" alt="z logo"  />
+  <img width="12" />
+  <img src="https://zonalogo.com/assets/moonshot-ai-logo-png-svg.webp?asset=2568" height="50" alt="moonshot logo"  />
+  <img width="12" />
+  <img src="https://svgstack.com/media/img/deepseek-logo-TrLl386065.webp" height="50" alt="deepseek logo"  />
+  <img width="12" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/grok-ai-icon.png" height="50" alt="grok logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gcp" height="60" alt="google cloud logo"  />
   <img width="12" />
